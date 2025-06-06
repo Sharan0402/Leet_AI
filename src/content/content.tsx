@@ -276,8 +276,8 @@ const  ChatBox: React.FC<ChatBoxProps> = ({
             <Bot color="#000" className="h-6 w-6" />
           </div>
           <div>
-            <h3 className="font-bold text-lg">Ask Appy</h3>
-            <h6 className="font-normal text-xs">I love you lakku</h6>
+            <h3 className="font-bold text-lg">Ask AI</h3>
+            <h6 className="font-normal text-xs">Let's solve together</h6>
           </div>
         </div>
         <DropdownMenu>
